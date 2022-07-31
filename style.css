@@ -1,6 +1,27 @@
+* {
+  cursor: url(), auto;
+}
+
 body {
   background: #000;
   color: #fff;
   padding: 25px;
   font-family: sans-serif;
+}
+button {
+  width: 10em;
+  height: 8em;
+  border-radius: 6px;
+}
+
+button:hover {
+  background-color: #cb67d6;
+  
+}
+a {
+  text-decoration: none;
+}
+
+img {
+  width: 70%;
 }
